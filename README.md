@@ -9,10 +9,10 @@
 </p>
 
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=mrns20&theme=tokyonight&hide_border=true" width="450"> <img src="https://github-readme-stats.vercel.app/api?username=mrns20&show_icons=true&theme=tokyonight&hide_border=true" width="420"> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=mrns20&theme=tokyonight&hide_border=true" width="420"> <img src="https://github-readme-stats.vercel.app/api?username=mrns20&show_icons=true&theme=tokyonight&hide_border=true" width="410"> </p>
 
 
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrns20&theme=react-dark&hide_border=true" width="500"> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrns20&theme=react-dark&hide_border=true" width="600"> </p>
 
 
