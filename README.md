@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=mrns20&theme=tokyonight&hide_border=true" width="420"> <img src="https://github-readme-stats.vercel.app/api?username=mrns20&show_icons=true&theme=tokyonight&hide_border=true" width="420"> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=mrns20&theme=tokyonight&hide_border=true" width="450"> <img src="https://github-readme-stats.vercel.app/api?username=mrns20&show_icons=true&theme=tokyonight&hide_border=true" width="420"> </p>
 
 
 
