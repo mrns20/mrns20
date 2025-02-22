@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=F8B733&center=true&width=450&lines=Μαρίνο+Τσελάνι;Informatics+and+Computer+Engineering,University+of+West+Attica; Full-Stack+Developer;Software+Engineer;AI+Engineer;"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F7B733&center=true&width=450&lines=Μαρίνο+Τσελάνι;Informatics+and+Computer+Engineering,University+of+West+Attica; Full-Stack+Developer;Software+Engineer;AI+Engineer;"> </p>
 
 
 <p align="center">
