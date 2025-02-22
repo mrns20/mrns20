@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F7B733&center=true&width=450&lines=Μαρίνο+Τσελάνι;Informatics+and+Computer+Engineering,University+of+West+Attica; Full-Stack+Developer;Software+Engineer;AI+Engineer;"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6EC6FF&center=true&width=450&lines=Marino+Tselani;Informatics+and+Computer+Engineering+University+of+West+Attica; Full-Stack+Developer;Software+Engineer;AI+Engineer;"> </p>
 
 
 <p align="center">
@@ -7,7 +7,6 @@
 </p>
 
 
-📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=tokyonight&hide_border=true" width="420"> <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" width="420"> </p>
 
 
