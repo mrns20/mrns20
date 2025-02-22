@@ -1,7 +1,9 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FFFF&center=true&width=600&lines=Marino+Tselani;Informatics+and+Computer+Engineering%0AUniversity+of+West+Attica;Full-Stack+Developer;Software+Engineering%0Data+Analysis%0Machine+Learning-AI;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FFFF&center=true&width=600&lines=Marino+Tselani;IT+and+Computer+Engineering%0AUniversity+of+West+Attica;Full-Stack+Developer;Software+Engineering%0AData+Analysis%0AMachine+Learning-AI;">
 </p>
+
+
 
 
 
