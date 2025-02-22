@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrns20&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 
@@ -11,5 +11,5 @@
 
 
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark&hide_border=true" width="800"> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrns20&theme=react-dark&hide_border=true" width="800"> </p>
 
